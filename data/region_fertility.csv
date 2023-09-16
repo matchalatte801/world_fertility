@@ -1,0 +1,435 @@
+"","Region","Year","fertility"
+"1","East Asia & Pacific",1960,5.88217647058824
+"2","East Asia & Pacific",1961,5.80788235294118
+"3","East Asia & Pacific",1962,5.85952941176471
+"4","East Asia & Pacific",1963,5.85873529411765
+"5","East Asia & Pacific",1964,5.76529411764706
+"6","East Asia & Pacific",1965,5.68394117647059
+"7","East Asia & Pacific",1966,5.57679411764706
+"8","East Asia & Pacific",1967,5.48088235294118
+"9","East Asia & Pacific",1968,5.39764705882353
+"10","East Asia & Pacific",1969,5.30858823529412
+"11","East Asia & Pacific",1970,5.22461764705882
+"12","East Asia & Pacific",1971,5.14297058823529
+"13","East Asia & Pacific",1972,5.04026470588235
+"14","East Asia & Pacific",1973,4.90061764705882
+"15","East Asia & Pacific",1974,4.73988235294118
+"16","East Asia & Pacific",1975,4.58611764705882
+"17","East Asia & Pacific",1976,4.45755882352941
+"18","East Asia & Pacific",1977,4.34082352941176
+"19","East Asia & Pacific",1978,4.27297058823529
+"20","East Asia & Pacific",1979,4.26723529411765
+"21","East Asia & Pacific",1980,4.25394117647059
+"22","East Asia & Pacific",1981,4.21961764705882
+"23","East Asia & Pacific",1982,4.16461764705882
+"24","East Asia & Pacific",1983,4.09217647058824
+"25","East Asia & Pacific",1984,4.02102941176471
+"26","East Asia & Pacific",1985,3.95888235294118
+"27","East Asia & Pacific",1986,3.88720588235294
+"28","East Asia & Pacific",1987,3.82573529411765
+"29","East Asia & Pacific",1988,3.76979411764706
+"30","East Asia & Pacific",1989,3.68688235294118
+"31","East Asia & Pacific",1990,3.62465714285714
+"32","East Asia & Pacific",1991,3.57385294117647
+"33","East Asia & Pacific",1992,3.50979411764706
+"34","East Asia & Pacific",1993,3.43944117647059
+"35","East Asia & Pacific",1994,3.37055882352941
+"36","East Asia & Pacific",1995,3.27111428571429
+"37","East Asia & Pacific",1996,3.23908823529412
+"38","East Asia & Pacific",1997,3.17076470588235
+"39","East Asia & Pacific",1998,3.09520588235294
+"40","East Asia & Pacific",1999,3.04014705882353
+"41","East Asia & Pacific",2000,2.96914285714286
+"42","East Asia & Pacific",2001,2.93423529411765
+"43","East Asia & Pacific",2002,2.87297058823529
+"44","East Asia & Pacific",2003,2.82544117647059
+"45","East Asia & Pacific",2004,2.79620588235294
+"46","East Asia & Pacific",2005,2.73991428571429
+"47","East Asia & Pacific",2006,2.76361764705882
+"48","East Asia & Pacific",2007,2.75888235294118
+"49","East Asia & Pacific",2008,2.74726470588235
+"50","East Asia & Pacific",2009,2.71973529411765
+"51","East Asia & Pacific",2010,2.69341176470588
+"52","East Asia & Pacific",2011,2.67020588235294
+"53","East Asia & Pacific",2012,2.65962857142857
+"54","East Asia & Pacific",2013,2.61667647058824
+"55","East Asia & Pacific",2014,2.59441176470588
+"56","East Asia & Pacific",2015,2.54468571428571
+"57","East Asia & Pacific",2016,2.51541176470588
+"58","East Asia & Pacific",2017,2.46417647058824
+"59","East Asia & Pacific",2018,2.4185
+"60","East Asia & Pacific",2019,2.384
+"61","East Asia & Pacific",2020,2.29417142857143
+"62","East Asia & Pacific",2021,2.30723529411765
+"63","Europe & Central Asia",1960,3.34746153846154
+"64","Europe & Central Asia",1961,3.35917647058824
+"65","Europe & Central Asia",1962,3.32240384615385
+"66","Europe & Central Asia",1963,3.34207843137255
+"67","Europe & Central Asia",1964,3.29113461538462
+"68","Europe & Central Asia",1965,3.23867307692308
+"69","Europe & Central Asia",1966,3.16778846153846
+"70","Europe & Central Asia",1967,3.12594230769231
+"71","Europe & Central Asia",1968,3.05578846153846
+"72","Europe & Central Asia",1969,3.00373076923077
+"73","Europe & Central Asia",1970,2.95952830188679
+"74","Europe & Central Asia",1971,2.93179245283019
+"75","Europe & Central Asia",1972,2.87358490566038
+"76","Europe & Central Asia",1973,2.78681132075472
+"77","Europe & Central Asia",1974,2.74896226415094
+"78","Europe & Central Asia",1975,2.67268518518519
+"79","Europe & Central Asia",1976,2.62214814814815
+"80","Europe & Central Asia",1977,2.55242592592593
+"81","Europe & Central Asia",1978,2.49922222222222
+"82","Europe & Central Asia",1979,2.46712962962963
+"83","Europe & Central Asia",1980,2.43946296296296
+"84","Europe & Central Asia",1981,2.38375925925926
+"85","Europe & Central Asia",1982,2.37172222222222
+"86","Europe & Central Asia",1983,2.34218518518519
+"87","Europe & Central Asia",1984,2.32648148148148
+"88","Europe & Central Asia",1985,2.29357407407407
+"89","Europe & Central Asia",1986,2.28440740740741
+"90","Europe & Central Asia",1987,2.25665925925926
+"91","Europe & Central Asia",1988,2.25542592592593
+"92","Europe & Central Asia",1989,2.20344444444444
+"93","Europe & Central Asia",1990,2.18372222222222
+"94","Europe & Central Asia",1991,2.13453703703704
+"95","Europe & Central Asia",1992,2.0712962962963
+"96","Europe & Central Asia",1993,1.99638888888889
+"97","Europe & Central Asia",1994,1.9352962962963
+"98","Europe & Central Asia",1995,1.8867962962963
+"99","Europe & Central Asia",1996,1.8427037037037
+"100","Europe & Central Asia",1997,1.80172222222222
+"101","Europe & Central Asia",1998,1.75174074074074
+"102","Europe & Central Asia",1999,1.72544444444444
+"103","Europe & Central Asia",2000,1.72250909090909
+"104","Europe & Central Asia",2001,1.68283636363636
+"105","Europe & Central Asia",2002,1.67658181818182
+"106","Europe & Central Asia",2003,1.67247272727273
+"107","Europe & Central Asia",2004,1.69735454545455
+"108","Europe & Central Asia",2005,1.70034545454545
+"109","Europe & Central Asia",2006,1.70639285714286
+"110","Europe & Central Asia",2007,1.73116071428571
+"111","Europe & Central Asia",2008,1.78060714285714
+"112","Europe & Central Asia",2009,1.79441071428571
+"113","Europe & Central Asia",2010,1.78726785714286
+"114","Europe & Central Asia",2011,1.7544
+"115","Europe & Central Asia",2012,1.76053571428571
+"116","Europe & Central Asia",2013,1.75376363636364
+"117","Europe & Central Asia",2014,1.77809090909091
+"118","Europe & Central Asia",2015,1.77143636363636
+"119","Europe & Central Asia",2016,1.77607272727273
+"120","Europe & Central Asia",2017,1.73874545454545
+"121","Europe & Central Asia",2018,1.73374545454545
+"122","Europe & Central Asia",2019,1.71834545454545
+"123","Europe & Central Asia",2020,1.69636363636364
+"124","Europe & Central Asia",2021,1.71669090909091
+"125","Latin America & Caribbean",1960,5.887125
+"126","Latin America & Caribbean",1961,5.789925
+"127","Latin America & Caribbean",1962,5.73815
+"128","Latin America & Caribbean",1963,5.6903
+"129","Latin America & Caribbean",1964,5.6136
+"130","Latin America & Caribbean",1965,5.530575
+"131","Latin America & Caribbean",1966,5.44395
+"132","Latin America & Caribbean",1967,5.32445
+"133","Latin America & Caribbean",1968,5.20685
+"134","Latin America & Caribbean",1969,5.108725
+"135","Latin America & Caribbean",1970,5.0027
+"136","Latin America & Caribbean",1971,4.888525
+"137","Latin America & Caribbean",1972,4.7605
+"138","Latin America & Caribbean",1973,4.6261
+"139","Latin America & Caribbean",1974,4.4993
+"140","Latin America & Caribbean",1975,4.373825
+"141","Latin America & Caribbean",1976,4.2689
+"142","Latin America & Caribbean",1977,4.167525
+"143","Latin America & Caribbean",1978,4.0645
+"144","Latin America & Caribbean",1979,3.974675
+"145","Latin America & Caribbean",1980,3.8825
+"146","Latin America & Caribbean",1981,3.781275
+"147","Latin America & Caribbean",1982,3.717625
+"148","Latin America & Caribbean",1983,3.649225
+"149","Latin America & Caribbean",1984,3.54565
+"150","Latin America & Caribbean",1985,3.488075
+"151","Latin America & Caribbean",1986,3.420125
+"152","Latin America & Caribbean",1987,3.3645
+"153","Latin America & Caribbean",1988,3.310575
+"154","Latin America & Caribbean",1989,3.27315
+"155","Latin America & Caribbean",1990,3.22665
+"156","Latin America & Caribbean",1991,3.1725
+"157","Latin America & Caribbean",1992,3.12955
+"158","Latin America & Caribbean",1993,3.0664
+"159","Latin America & Caribbean",1994,2.9945
+"160","Latin America & Caribbean",1995,2.936075
+"161","Latin America & Caribbean",1996,2.863025
+"162","Latin America & Caribbean",1997,2.822825
+"163","Latin America & Caribbean",1998,2.7353
+"164","Latin America & Caribbean",1999,2.688575
+"165","Latin America & Caribbean",2000,2.6311125
+"166","Latin America & Caribbean",2001,2.55964
+"167","Latin America & Caribbean",2002,2.4958925
+"168","Latin America & Caribbean",2003,2.437185
+"169","Latin America & Caribbean",2004,2.398705
+"170","Latin America & Caribbean",2005,2.361155
+"171","Latin America & Caribbean",2006,2.3113825
+"172","Latin America & Caribbean",2007,2.2843875
+"173","Latin America & Caribbean",2008,2.275065
+"174","Latin America & Caribbean",2009,2.242695
+"175","Latin America & Caribbean",2010,2.2066125
+"176","Latin America & Caribbean",2011,2.1846125
+"177","Latin America & Caribbean",2012,2.1595375
+"178","Latin America & Caribbean",2013,2.121025
+"179","Latin America & Caribbean",2014,2.10085
+"180","Latin America & Caribbean",2015,2.0675125
+"181","Latin America & Caribbean",2016,2.0165625
+"182","Latin America & Caribbean",2017,1.969675
+"183","Latin America & Caribbean",2018,1.936125
+"184","Latin America & Caribbean",2019,1.89635
+"185","Latin America & Caribbean",2020,1.85955
+"186","Latin America & Caribbean",2021,1.83702270115
+"187","Middle East & North Africa",1960,6.70145
+"188","Middle East & North Africa",1961,6.717
+"189","Middle East & North Africa",1962,6.78125
+"190","Middle East & North Africa",1963,6.77155
+"191","Middle East & North Africa",1964,6.7713
+"192","Middle East & North Africa",1965,6.75815
+"193","Middle East & North Africa",1966,6.7423
+"194","Middle East & North Africa",1967,6.7183
+"195","Middle East & North Africa",1968,6.6833
+"196","Middle East & North Africa",1969,6.64425
+"197","Middle East & North Africa",1970,6.59725
+"198","Middle East & North Africa",1971,6.5436
+"199","Middle East & North Africa",1972,6.4816
+"200","Middle East & North Africa",1973,6.40115
+"201","Middle East & North Africa",1974,6.34285
+"202","Middle East & North Africa",1975,6.32115
+"203","Middle East & North Africa",1976,6.2686
+"204","Middle East & North Africa",1977,6.20685
+"205","Middle East & North Africa",1978,6.1331
+"206","Middle East & North Africa",1979,6.0762
+"207","Middle East & North Africa",1980,5.9811
+"208","Middle East & North Africa",1981,5.8874
+"209","Middle East & North Africa",1982,5.7928
+"210","Middle East & North Africa",1983,5.68885
+"211","Middle East & North Africa",1984,5.5734
+"212","Middle East & North Africa",1985,5.4467
+"213","Middle East & North Africa",1986,5.3102
+"214","Middle East & North Africa",1987,5.16325
+"215","Middle East & North Africa",1988,5.0176
+"216","Middle East & North Africa",1989,4.86625
+"217","Middle East & North Africa",1990,4.80161904761905
+"218","Middle East & North Africa",1991,4.631
+"219","Middle East & North Africa",1992,4.48766666666667
+"220","Middle East & North Africa",1993,4.33271428571429
+"221","Middle East & North Africa",1994,4.18509523809524
+"222","Middle East & North Africa",1995,4.00528571428571
+"223","Middle East & North Africa",1996,3.861
+"224","Middle East & North Africa",1997,3.72566666666667
+"225","Middle East & North Africa",1998,3.60319047619048
+"226","Middle East & North Africa",1999,3.49804761904762
+"227","Middle East & North Africa",2000,3.40671428571429
+"228","Middle East & North Africa",2001,3.32328571428571
+"229","Middle East & North Africa",2002,3.24280952380952
+"230","Middle East & North Africa",2003,3.18614285714286
+"231","Middle East & North Africa",2004,3.11938095238095
+"232","Middle East & North Africa",2005,3.05014285714286
+"233","Middle East & North Africa",2006,2.99057142857143
+"234","Middle East & North Africa",2007,2.94085714285714
+"235","Middle East & North Africa",2008,2.903
+"236","Middle East & North Africa",2009,2.86585714285714
+"237","Middle East & North Africa",2010,2.85028571428571
+"238","Middle East & North Africa",2011,2.83804761904762
+"239","Middle East & North Africa",2012,2.82214285714286
+"240","Middle East & North Africa",2013,2.7977619047619
+"241","Middle East & North Africa",2014,2.77852380952381
+"242","Middle East & North Africa",2015,2.74504761904762
+"243","Middle East & North Africa",2016,2.691
+"244","Middle East & North Africa",2017,2.64995238095238
+"245","Middle East & North Africa",2018,2.60271428571429
+"246","Middle East & North Africa",2019,2.54404761904762
+"247","Middle East & North Africa",2020,2.50680952380952
+"248","Middle East & North Africa",2021,2.47680952380952
+"249","North America",1960,3.65833333333333
+"250","North America",1961,3.61866666666667
+"251","North America",1962,3.52833333333333
+"252","North America",1963,3.46466666666667
+"253","North America",1964,3.29266666666667
+"254","North America",1965,3.034
+"255","North America",1966,2.76533333333333
+"256","North America",1967,2.577
+"257","North America",1968,2.45833333333333
+"258","North America",1969,2.40733333333333
+"259","North America",1970,2.36533333333333
+"260","North America",1971,2.23533333333333
+"261","North America",1972,2.067
+"262","North America",1973,1.96166666666667
+"263","North America",1974,1.88666666666667
+"264","North America",1975,1.81333333333333
+"265","North America",1976,1.78933333333333
+"266","North America",1977,1.741
+"267","North America",1978,1.68966666666667
+"268","North America",1979,1.73
+"269","North America",1980,1.73083333333333
+"270","North America",1981,1.684
+"271","North America",1982,1.6975
+"272","North America",1983,1.74333333333333
+"273","North America",1984,1.6915
+"274","North America",1985,1.74666666666667
+"275","North America",1986,1.7365
+"276","North America",1987,1.75566666666667
+"277","North America",1988,1.79533333333333
+"278","North America",1989,1.83933333333333
+"279","North America",1990,1.866
+"280","North America",1991,1.83716666666667
+"281","North America",1992,1.82133333333333
+"282","North America",1993,1.80016666666667
+"283","North America",1994,1.79183333333333
+"284","North America",1995,1.77566666666667
+"285","North America",1996,1.768
+"286","North America",1997,1.74433333333333
+"287","North America",1998,1.786
+"288","North America",1999,1.78816666666667
+"289","North America",2000,1.76866666666667
+"290","North America",2001,1.7735
+"291","North America",2002,1.77016666666667
+"292","North America",2003,1.79916666666667
+"293","North America",2004,1.79716666666667
+"294","North America",2005,1.799
+"295","North America",2006,1.83266666666667
+"296","North America",2007,1.85
+"297","North America",2008,1.84733333333333
+"298","North America",2009,1.81733333333333
+"299","North America",2010,1.76033333333333
+"300","North America",2011,1.70816666666667
+"301","North America",2012,1.7035
+"302","North America",2013,1.68916666666667
+"303","North America",2014,1.62416666666667
+"304","North America",2015,1.6145
+"305","North America",2016,1.6035
+"306","North America",2017,1.57183333333333
+"307","North America",2018,1.51316666666667
+"308","North America",2019,1.492
+"309","North America",2020,1.48383333333333
+"310","North America",2021,1.46466666666667
+"311","South Asia",1960,6.47375
+"312","South Asia",1961,6.473125
+"313","South Asia",1962,6.4805
+"314","South Asia",1963,6.47725
+"315","South Asia",1964,6.47325
+"316","South Asia",1965,6.4505
+"317","South Asia",1966,6.434875
+"318","South Asia",1967,6.43775
+"319","South Asia",1968,6.413875
+"320","South Asia",1969,6.38375
+"321","South Asia",1970,6.361625
+"322","South Asia",1971,6.333375
+"323","South Asia",1972,6.299875
+"324","South Asia",1973,6.271125
+"325","South Asia",1974,6.241125
+"326","South Asia",1975,6.204125
+"327","South Asia",1976,6.18175
+"328","South Asia",1977,6.14275
+"329","South Asia",1978,6.11875
+"330","South Asia",1979,6.094625
+"331","South Asia",1980,6.048375
+"332","South Asia",1981,6.00075
+"333","South Asia",1982,5.924125
+"334","South Asia",1983,5.84675
+"335","South Asia",1984,5.78175
+"336","South Asia",1985,5.703
+"337","South Asia",1986,5.619375
+"338","South Asia",1987,5.5295
+"339","South Asia",1988,5.43
+"340","South Asia",1989,5.33875
+"341","South Asia",1990,5.233875
+"342","South Asia",1991,5.11625
+"343","South Asia",1992,4.995625
+"344","South Asia",1993,4.875875
+"345","South Asia",1994,4.7515
+"346","South Asia",1995,4.61075
+"347","South Asia",1996,4.462375
+"348","South Asia",1997,4.318625
+"349","South Asia",1998,4.180875
+"350","South Asia",1999,4.0585
+"351","South Asia",2000,3.95225
+"352","South Asia",2001,3.849125
+"353","South Asia",2002,3.7505
+"354","South Asia",2003,3.652125
+"355","South Asia",2004,3.56725
+"356","South Asia",2005,3.47075
+"357","South Asia",2006,3.38025
+"358","South Asia",2007,3.313125
+"359","South Asia",2008,3.23875
+"360","South Asia",2009,3.160375
+"361","South Asia",2010,3.082625
+"362","South Asia",2011,3.01325
+"363","South Asia",2012,2.94975
+"364","South Asia",2013,2.889625
+"365","South Asia",2014,2.8165
+"366","South Asia",2015,2.74975
+"367","South Asia",2016,2.68475
+"368","South Asia",2017,2.610375
+"369","South Asia",2018,2.549
+"370","South Asia",2019,2.490625
+"371","South Asia",2020,2.444875
+"372","South Asia",2021,2.406125
+"373","Sub-Saharan Africa",1960,6.56657446808511
+"374","Sub-Saharan Africa",1961,6.59197872340425
+"375","Sub-Saharan Africa",1962,6.61714893617021
+"376","Sub-Saharan Africa",1963,6.64070212765957
+"377","Sub-Saharan Africa",1964,6.65568085106383
+"378","Sub-Saharan Africa",1965,6.67082978723404
+"379","Sub-Saharan Africa",1966,6.68402127659574
+"380","Sub-Saharan Africa",1967,6.69374468085106
+"381","Sub-Saharan Africa",1968,6.70346808510638
+"382","Sub-Saharan Africa",1969,6.70925531914894
+"383","Sub-Saharan Africa",1970,6.71155319148936
+"384","Sub-Saharan Africa",1971,6.71825531914894
+"385","Sub-Saharan Africa",1972,6.72653191489362
+"386","Sub-Saharan Africa",1973,6.72706382978723
+"387","Sub-Saharan Africa",1974,6.73046808510638
+"388","Sub-Saharan Africa",1975,6.7288085106383
+"389","Sub-Saharan Africa",1976,6.679125
+"390","Sub-Saharan Africa",1977,6.71853191489362
+"391","Sub-Saharan Africa",1978,6.70887234042553
+"392","Sub-Saharan Africa",1979,6.69721276595745
+"393","Sub-Saharan Africa",1980,6.67651063829787
+"394","Sub-Saharan Africa",1981,6.65029787234043
+"395","Sub-Saharan Africa",1982,6.54891666666667
+"396","Sub-Saharan Africa",1983,6.58274468085106
+"397","Sub-Saharan Africa",1984,6.54431914893617
+"398","Sub-Saharan Africa",1985,6.50414893617021
+"399","Sub-Saharan Africa",1986,6.45959574468085
+"400","Sub-Saharan Africa",1987,6.33872916666667
+"401","Sub-Saharan Africa",1988,6.34563829787234
+"402","Sub-Saharan Africa",1989,6.28063829787234
+"403","Sub-Saharan Africa",1990,6.20874468085106
+"404","Sub-Saharan Africa",1991,6.14229787234043
+"405","Sub-Saharan Africa",1992,6.005
+"406","Sub-Saharan Africa",1993,6.00076595744681
+"407","Sub-Saharan Africa",1994,5.92491489361702
+"408","Sub-Saharan Africa",1995,5.85295744680851
+"409","Sub-Saharan Africa",1996,5.78265957446809
+"410","Sub-Saharan Africa",1997,5.64347916666667
+"411","Sub-Saharan Africa",1998,5.581375
+"412","Sub-Saharan Africa",1999,5.52670833333333
+"413","Sub-Saharan Africa",2000,5.46533333333333
+"414","Sub-Saharan Africa",2001,5.40566666666667
+"415","Sub-Saharan Africa",2002,5.35383333333333
+"416","Sub-Saharan Africa",2003,5.29691666666667
+"417","Sub-Saharan Africa",2004,5.2429375
+"418","Sub-Saharan Africa",2005,5.20325
+"419","Sub-Saharan Africa",2006,5.15683333333333
+"420","Sub-Saharan Africa",2007,5.112875
+"421","Sub-Saharan Africa",2008,5.07120833333333
+"422","Sub-Saharan Africa",2009,5.01864583333333
+"423","Sub-Saharan Africa",2010,4.95385416666667
+"424","Sub-Saharan Africa",2011,4.901
+"425","Sub-Saharan Africa",2012,4.83277083333333
+"426","Sub-Saharan Africa",2013,4.76183333333333
+"427","Sub-Saharan Africa",2014,4.68989583333333
+"428","Sub-Saharan Africa",2015,4.62285416666667
+"429","Sub-Saharan Africa",2016,4.55802083333333
+"430","Sub-Saharan Africa",2017,4.48977083333333
+"431","Sub-Saharan Africa",2018,4.42416666666667
+"432","Sub-Saharan Africa",2019,4.35858333333333
+"433","Sub-Saharan Africa",2020,4.2905
+"434","Sub-Saharan Africa",2021,4.22775
