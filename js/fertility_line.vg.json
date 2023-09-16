@@ -1,0 +1,48 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 400,
+  "title": "Fertility Rate",
+  "data": {
+    "url": "../data/region_fertility.csv"
+  },
+  "selection": {
+    "region_highlight": {
+      "type": "multi",
+      "fields": [
+        "Region"
+      ],
+      "bind": "legend"
+    }
+  },
+  "mark": "line",
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "temporal",
+      "title": "Year",
+      "scale": {
+        "domain": [
+          "1960",
+          "2021"
+        ]
+      }
+    },
+    "y": {
+      "field": "fertility",
+      "type": "quantitative",
+      "title": "Fertility Rate"
+    },
+    "color": {
+      "field": "Region",
+      "type": "nominal"
+    },
+    "opacity": {
+      "condition": {
+        "selection": "region_highlight",
+        "value": 0.6
+      },
+      "value": 0.1
+    }
+  }
+}
