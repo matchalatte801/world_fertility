@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "title": "Fertility in 2021",
+  "title": "World Fertility in 2021",
   "width": 800,
   "height": 400,
   "data": {
@@ -51,12 +51,13 @@
         "color": {
           "field": "2021",
           "type": "quantitative",
-          "title": "Fertility",
-          "scale": {"scheme": "reds"}
+          "title": "Total Fertility Rate",
+          "scale": {"scheme": "reds"},
+          "legend": {"titleAlign": "center"}
         },
         "tooltip": [
           {"field": "properties.NAME", "type": "nominal", "title": "Country"},
-          {"field": "2021", "type": "quantitative", "title": "Fertility"}
+          {"field": "2021", "type": "quantitative", "title": "Total Fertility Rate"}
         ]
       }
     }
