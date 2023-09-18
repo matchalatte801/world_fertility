@@ -4,7 +4,7 @@
   "width": 800,
   "height": 400,
   "data": {
-    "url": "../js/ne_110m.json",
+    "url": "../world_fertility/js/ne_110m.json",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
   },
   "projection": {"type": "equalEarth"},
@@ -21,14 +21,14 @@
     },
     {
       "data": {
-        "url": "../js/oceans.json",
+        "url": "../world_fertility/js/oceans.json",
         "format": {"type": "topojson", "feature": "oceans"}
       },
       "mark": {"type": "geoshape", "fill": "skyblue"}
     },
     {
       "data": {
-        "url": "../js/graticules.json",
+        "url": "../world_fertility/js/graticules.json",
         "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
       },
       "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"}
@@ -39,7 +39,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "../data/fertility_cleaned.csv"
+              "url": "../world_fertility/data/fertility_cleaned.csv"
             },
             "key": "Country Name",
             "fields": ["2021"]
