@@ -6,11 +6,14 @@
   "data": {
     "url": "../data/aus_state_fertility.csv"
   },
+  "transform": [
+    {"calculate": "(datum.start + datum.end) / 2", "as": "averageValue"}
+  ],
   "layer": [
     {
       "mark": "bar",
       "encoding": {
-        "y": {"field": "Area", "type": "ordinal"},
+        "y": {"field": "Area", "type": "ordinal",  "sort": ["Northern Territory", "Queensland", "New South Wales", "Western Australia", "South Australia", "Tasmania", "Victoria"]},
         "x": {"field": "start", "type": "quantitative", "scale": {"domain": [1.4, 1.9]}},
         "x2": {"field": "end"}
       }
