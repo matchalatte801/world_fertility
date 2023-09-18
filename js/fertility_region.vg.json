@@ -6,6 +6,36 @@
   "data": {
     "url": "../data/region_fertility.csv"
   },
+  "params": [
+    {
+    "name": "region_selection",
+    "bind": {
+    "input": "select",
+    "options": [
+    null,
+    "East Asia & Pacific",
+    "Europe & Central Asia",
+    "Latin America & Caribbean",
+    "Middle East & North Africa",
+    "North America",
+    "South Asia",
+    "Sub-Saharan Africa"
+    ],
+    "labels":[
+    "Show All",
+    "East Asia & Pacific",
+    "Europe & Central Asia",
+    "Latin America & Caribbean",
+    "Middle East & North Africa",
+    "North America",
+    "South Asia",
+    "Sub-Saharan Africa"
+    ],
+    "name": "Continent Selection: "
+    }
+  }
+],
+"transform": [{"filter": "region_selection == null || datum.Region == region_selection"}],
   "selection": {
     "region_highlight": {
       "type": "multi",
@@ -15,7 +45,9 @@
       "bind": "legend"
     }
   },
-  "mark": "line",
+  "mark": {
+    "type": "line",
+    "strokeWidth": 3.5},
   "encoding": {
     "x": {
       "field": "Year",
@@ -43,6 +75,12 @@
         "value": 0.6
       },
       "value": 0.1
-    }
+    },
+    "tooltip": [
+      {"field": "Region", "type": "nominal"},
+      {"field": "Year", "type": "temporal", "timeUnit": "year", "title": "Year"},
+      {"field": "fertility", "type": "quantitative", "format": ".2f", "title": "Fertility"}
+      ]
+      
   }
 }
