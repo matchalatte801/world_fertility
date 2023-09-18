@@ -1,0 +1,23 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 400,
+  "title": "Fertility Rate",
+  "data": {
+    "url": "../data/aus_state_fertility.csv"
+  },
+  "layer": [
+    {
+      "mark": "bar",
+      "encoding": {
+        "y": {"field": "Area", "type": "ordinal"},
+        "x": {"field": "start", "type": "quantitative", "scale": {"domain": [1.4, 1.9]}},
+        "x2": {"field": "end"}
+      }
+    },
+    {
+      "mark": {"type": "rule", "color": "red", "size": 2.5},
+      "encoding": {"x": {"datum": 1.7}}
+      }
+  ]
+}
