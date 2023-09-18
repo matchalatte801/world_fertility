@@ -2,25 +2,64 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "width": 500,
   "height": 400,
-  "title": "Fertility Rate",
+  "title": {
+    "text": "Australia's 2021 Fertility Rate by State/Territory",
+    "subtitle": "National Fertility Rate = 1.70"
+  },
   "data": {
     "url": "../data/aus_state_fertility.csv"
   },
   "transform": [
-    {"calculate": "(datum.start + datum.end) / 2", "as": "averageValue"}
+    {
+      "calculate": "(datum.start + datum.end) / 2",
+      "as": "averageValue"
+    }
   ],
   "layer": [
     {
       "mark": "bar",
       "encoding": {
-        "y": {"field": "Area", "type": "ordinal",  "sort": ["Northern Territory", "Queensland", "New South Wales", "Western Australia", "South Australia", "Tasmania", "Victoria"]},
-        "x": {"field": "start", "type": "quantitative", "scale": {"domain": [1.4, 1.9]}},
-        "x2": {"field": "end"}
+        "y": {
+          "title": "State/Territory",
+          "field": "Area",
+          "type": "ordinal",
+          "sort": [
+            "Northern Territory",
+            "Queensland",
+            "New South Wales",
+            "Western Australia",
+            "South Australia",
+            "Tasmania",
+            "Victoria"
+          ]
+        },
+        "x": {
+          "title": "Fertility Rate",
+          "field": "start",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              1.4,
+              1.9
+            ]
+          }
+        },
+        "x2": {
+          "field": "end"
+        }
       }
     },
     {
-      "mark": {"type": "rule", "color": "red", "size": 2.5},
-      "encoding": {"x": {"datum": 1.7}}
+      "mark": {
+        "type": "rule",
+        "color": "red",
+        "size": 2.5
+      },
+      "encoding": {
+        "x": {
+          "datum": 1.7
+        }
       }
+    }
   ]
 }
