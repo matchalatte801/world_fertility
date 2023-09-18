@@ -4,7 +4,7 @@
   "width": 800,
   "height": 400,
   "data": {
-    "url": "https://github.com/matchalatte801/world_fertility/blob/180d4a0fab4eed31883c53cfea25f4a537f87dc2/js/ne_110m.json",
+    "url": "https://raw.githubusercontent.com/matchalatte801/world_fertility/main/js/ne_110m.json",
     "format": {"type": "topojson", "feature": "ne_110m_admin_0_countries"}
   },
   "projection": {"type": "equalEarth"},
@@ -21,14 +21,14 @@
     },
     {
       "data": {
-        "url": "https://github.com/matchalatte801/world_fertility/blob/180d4a0fab4eed31883c53cfea25f4a537f87dc2/js/oceans.json",
+        "url": "https://raw.githubusercontent.com/matchalatte801/world_fertility/main/js/oceans.json",
         "format": {"type": "topojson", "feature": "oceans"}
       },
       "mark": {"type": "geoshape", "fill": "skyblue"}
     },
     {
       "data": {
-        "url": "https://github.com/matchalatte801/world_fertility/blob/180d4a0fab4eed31883c53cfea25f4a537f87dc2/js/graticules.json",
+        "url": "https://raw.githubusercontent.com/matchalatte801/world_fertility/main/js/graticules.json",
         "format": {"type": "topojson", "feature": "ne_110m_graticules_30"}
       },
       "mark": {"type": "geoshape", "fill": null, "stroke": "lightgray"}
@@ -39,7 +39,7 @@
           "lookup": "properties.NAME",
           "from": {
             "data": {
-              "url": "https://github.com/matchalatte801/world_fertility/blob/180d4a0fab4eed31883c53cfea25f4a537f87dc2/data/fertility_cleaned.csv"
+              "url": "https://raw.githubusercontent.com/matchalatte801/world_fertility/main/data/fertility_cleaned.csv"
             },
             "key": "Country Name",
             "fields": ["2021"]
