@@ -1,0 +1,23 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "width": 500,
+  "height": 400,
+  "title": {
+    "text": "Australia's 2021 Sex Ratio of Births"
+  },
+  "data": {
+    "url": "../data/aus_sex_fertility.csv"
+  },
+  "mark": "arc",
+  "encoding": {
+    "theta": {"field": "2021", "type": "quantitative"},
+    "color": {
+      "field": "Sex",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Male", "Female"],
+        "range": ["#4c78a8", "#e45756"]
+      }
+    }
+  }
+}
