@@ -4,7 +4,7 @@
   "height": 400,
   "title": "Fertility Rate",
   "data": {
-    "url": "../data/region_fertility.csv"
+    "url": "https://raw.githubusercontent.com/matchalatte801/world_fertility/main/data/region_fertility.csv"
   },
   "params": [
     {
