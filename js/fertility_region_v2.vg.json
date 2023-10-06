@@ -21,7 +21,7 @@
             "North America",
             "South Asia",
             "Sub-Saharan Africa"
-          ],
+          ], 
           "labels": [
             "Show All",
             "East Asia & Pacific",
@@ -85,7 +85,7 @@
       {
         "mark": {
           "type": "text", "fontSize": 15,
-          "color": "darkslategrey", "dx": 195
+          "color": "darkslategrey", "dx": 220
         },
         "encoding": {
           "y": {"field": "fivep2", "type": "quantitative"},
@@ -101,7 +101,7 @@
       {
         "mark": {
           "type": "text", "fontSize": 15,
-          "color": "darkslategrey", "dx": -200
+          "color": "darkslategrey", "dx": -210
         },
         "encoding": {
           "y": {"field": "criticaltext", "type": "quantitative"},
