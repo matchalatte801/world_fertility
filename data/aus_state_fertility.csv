@@ -1,8 +1,9 @@
 "Area",start,end
-"New South Wales",1.7,1.78
-"Victoria",1.53,1.7
-"Queensland",1.7,1.79
-"South Australia",1.66,1.7
-"Western Australia",1.7,1.75
-"Northern Territory",1.7, 1.82
-"Australian Capital Territory",1.45,1.7
+"NSW",1.7,1.78
+"VIC",1.53,1.7
+"QLD",1.7,1.79
+"SA",1.66,1.7
+"WA",1.7,1.75
+"TAS",1.64,1.7
+"NT",1.7, 1.82
+"ACT",1.45,1.7

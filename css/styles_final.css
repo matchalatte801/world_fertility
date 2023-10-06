@@ -7,13 +7,13 @@ h1 {
 }
 
 body {
-    background-color: lightgray;
+    background-color: rgb(219, 193, 252);
 }
 
 
 
 .page {
-    width: 1000px;
+    width: 1200px;
     background-color: white;
     margin: auto;
     padding: 50px;
@@ -24,20 +24,17 @@ body {
     width: 100%;
 }
 
+.pure-g {
+    margin-bottom: 40px;
+}
 
 
-
-.left-image img {
+.pregnant-image img {
 	width: 220px;
 	height: auto;
 }
 
-
-/* #fertility_map {
-	top:100px;
-	bottom: 100px; 
-	left: 100px;
-	right: 100px;
-	/*height: 1000px;
-	width: 800px;*/
-/* } */ 
+.aus-image img {
+	width: 220px;
+	height: auto;
+}

@@ -62,7 +62,7 @@
           },
           "tooltip": [
             {"field": "Country Name", "type": "nominal", "title": "Country"},
-            {"field": "Year", "type": "quantitative"},
+            {"field": "Year", "type": "quantitative", "title": "Country"},
             {"field": "fertility", "type": "quantitative", "title": "Total Fertility Rate"}
           ]
         }
