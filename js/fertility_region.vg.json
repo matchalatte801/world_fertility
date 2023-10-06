@@ -81,12 +81,12 @@
     },
     {
       "mark": {
-        "type": "text", "fontSize": 14,
-        "color": "grey", "dx": 190 
+        "type": "text", "fontSize": 15,
+        "color": "grey", "dx": 195
       },
       "encoding": {
         "y": {"field": "fivep2", "type": "quantitative"},
-        "text": {"value": "high fertility levels"}
+        "text": {"value": "HIGH FERTILITY"}
       }
     }
   ]
