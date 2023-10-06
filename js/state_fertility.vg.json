@@ -6,6 +6,7 @@
     "text": "Australia's 2021 Fertility Rate by State/Territory",
     "subtitle": "National Fertility Rate = 1.70"
   },
+  "background": "lavender",
   "data": {
     "url": "../data/aus_state_fertility.csv"
   },
