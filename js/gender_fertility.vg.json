@@ -7,7 +7,7 @@
   },
   "background": "lavender",
   "data": {
-    "url": "../data/aus_sex_fertility.csv"
+    "url": "https://raw.githubusercontent.com/matchalatte801/world_fertility/main/data/aus_sex_fertility.csv"
   },
   "transform": [
     {"joinaggregate": [{"op": "sum", "field": "2021", "as": "total"}]}, 
