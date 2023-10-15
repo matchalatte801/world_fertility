@@ -4,7 +4,8 @@
   "height": 300,
   "title": {
     "text": "Australia's 2021 Fertility Rate by State/Territory",
-    "subtitle": "National Fertility Rate = 1.70"
+    "subtitle": "National Fertility Rate = 1.70",
+    "fontSize": 18
   },
   "background": "lavender",
   "data": {

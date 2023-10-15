@@ -3,7 +3,8 @@
   "width": 300,
   "height": 300,
   "title": {
-    "text": "Australia's 2021 Sex Ratio of Births"
+    "text": "Australia's 2021 Sex Ratio of Births",
+    "fontSize": 18
   },
   "background": "lavender",
   "data": {

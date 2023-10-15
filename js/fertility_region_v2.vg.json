@@ -2,7 +2,9 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "width": 500,
     "height": 300,
-    "title": "Fertility Rate for Different Regions",
+    "title": {"text": "Fertility Rate for Different Regions",
+              "fontSize": 18
+            },
     "background": "lavender",
     "data": {
       "url": "https://raw.githubusercontent.com/matchalatte801/world_fertility/main/data/region_fertility.csv"
